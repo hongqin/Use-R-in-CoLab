@@ -1,2 +1,3 @@
 # Use-R-inCo-Lab
-use R in Google Co-Lab
+
+Use this link to create a blank R notebook in CoLab: colab.fan/r 
