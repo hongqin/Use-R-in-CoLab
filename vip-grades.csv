@@ -1,29 +1,29 @@
-﻿name,Grade,,,,,
-George Washington,85,,,,,
-John Adams,90,,,,,
-Thomas Jefferson,81,,,,,
-James Madison,92,,,,,
-James Monroe,71,,,,,
-Andrew Jackson,86,,,,,
-James K. Polk,70,,,,,
-Zachary Taylor,88,,,,,
-Millard Fillmore,100,,,,,
-Franklin Pierce,99,,,,,
-James Buchanan,97,,,,,
-Abraham Lincoln,91,,,,,
-Andrew Johnson,83,,,,,
-Ulysses S. Grant,85,,,,,
-Rutherford B. Hayes,78,,,,,
-James Garfield,99,,,,,
-Chester A. Arthur,82,,,,,
-Grover Cleveland,78,,,,,
-Benjamin Harrison,84,,,,,
-Grover Cleveland,73,,,,,
-William McKinley,66,,,,,
-Theodore Roosevelt,92,,,,,
-William Howard Taft,89,,,,,
-Woodrow Wilson,90,,,,,
-Warren G. Harding,79,,,,,
-Calvin Coolidge,81,,,,,
-Herbert Hoover,84,,,,,
-Franklin D. Roosevelt,89,,,,,
+﻿name,GPA,Major
+George Washington,85,Biology
+John Adams,90,Computer_Science
+Thomas Jefferson,81,Physics
+James Madison,92,Mathematics
+James Monroe,71,Economics
+Andrew Jackson,86,Chemistry
+James K. Polk,70,Data_Science
+Zachary Taylor,88,Environmental_Science
+Millard Fillmore,100,Biology
+Franklin Pierce,99,Computer_Engineering
+James Buchanan,97,Electronic_Engineering
+Abraham Lincoln,91,Chemical_Engineering
+Andrew Johnson,83,Economics
+Ulysses S. Grant,85,Political_Science
+Rutherford B. Hayes,78,Psychology
+James Garfield,99,Philosophy
+Chester A. Arthur,82,Computer_Science
+Grover Cleveland,78,Political_Science
+Benjamin Harrison,84,Music
+Grover Cleveland,73,Psychology
+William McKinley,66,Computer_Science
+Theodore Roosevelt,92,Public_Health
+William Howard Taft,89,Political_Science
+Woodrow Wilson,90,Music
+Warren G. Harding,79,Public_Health
+Calvin Coolidge,81,History
+Herbert Hoover,84,Data_Science
+Franklin D. Roosevelt,89,Computer_Science
