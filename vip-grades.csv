@@ -1,29 +1,29 @@
 ﻿name,GPA,Major,College
-George Washington,85,Biology,ArtsScience
-John Adams,90,Computer_Science,Engineering
-Thomas Jefferson,81,Physics,ArtsScience
-James Madison,92,Mathematics,ArtsScience
-James Monroe,71,Economics,Business
-Andrew Jackson,86,Chemistry,ArtsScience
-James K. Polk,70,Data_Science,Engineering
-Zachary Taylor,88,Environmental_Science,ArtsScience
-Millard Fillmore,100,Biology,ArtsScience
-Franklin Pierce,99,Computer_Engineering,Engineering
-James Buchanan,97,Electronic_Engineering,Engineering
-Abraham Lincoln,91,Chemical_Engineering,Engineering
-Andrew Johnson,83,Economics,Business
-Ulysses S. Grant,85,Political_Science,ArtsScience
-Rutherford B. Hayes,78,Psychology,ArtsScience
-James Garfield,99,Philosophy,ArtsScience
-Chester A. Arthur,82,Computer_Science,Engineering
-Grover Cleveland,78,Political_Science,ArtsScience
-Benjamin Harrison,84,Music,ArtsScience
-Grover Cleveland,73,Psychology,ArtsScience
-William McKinley,66,Computer_Science,Engineering
-Theodore Roosevelt,92,Public_Health,ArtsScience
-William Howard Taft,89,Political_Science,ArtsScience
-Woodrow Wilson,90,Music,ArtsScience
-Warren G. Harding,79,Public_Health,ArtsScience
-Calvin Coolidge,81,History,ArtsScience
-Herbert Hoover,84,Data_Science,Engineering
-Franklin D. Roosevelt,89,Computer_Science,Engineering
+George Washington,4,Biology,ArtsScience
+John Adams,3.5,Computer_Science,Engineering
+Thomas Jefferson,3.9,Physics,ArtsScience
+James Madison,4,Mathematics,ArtsScience
+James Monroe,3.2,Economics,Business
+Andrew Jackson,3.1,Chemistry,ArtsScience
+James K. Polk,3.7,Data_Science,Engineering
+Zachary Taylor,2.9,Environmental_Science,ArtsScience
+Millard Fillmore,4,Biology,ArtsScience
+Franklin Pierce,3.8,Computer_Engineering,Engineering
+James Buchanan,3.7,Electronic_Engineering,Engineering
+Abraham Lincoln,3.6,Chemical_Engineering,Engineering
+Andrew Johnson,3.5,Economics,Business
+Ulysses S. Grant,2.9,Political_Science,ArtsScience
+Rutherford B. Hayes,3,Psychology,ArtsScience
+James Garfield,3.2,Philosophy,ArtsScience
+Chester A. Arthur,3.5,Computer_Science,Engineering
+Grover Cleveland,2.8,Political_Science,ArtsScience
+Benjamin Harrison,3.5,Music,ArtsScience
+Grover Cleveland,3.9,Psychology,ArtsScience
+William McKinley,2.9,Computer_Science,Engineering
+Theodore Roosevelt,4,Public_Health,ArtsScience
+William Howard Taft,3.9,Political_Science,ArtsScience
+Woodrow Wilson,3.8,Music,ArtsScience
+Warren G. Harding,2.9,Public_Health,ArtsScience
+Calvin Coolidge,3.5,History,ArtsScience
+Herbert Hoover,3.6,Data_Science,Engineering
+Franklin D. Roosevelt,3.9,Computer_Science,Engineering
